@@ -1,0 +1,264 @@
+# From https://en.wikipedia.org/wiki/List_of_adjectival_and_demonymic_forms_for_countries_and_nations
+{"name": "Abkhazia", "geo_type": "country", "adjectives": ["Abkhaz", "Abkhazian"], "demonyms": ["Abkhazians"]}
+{"name": "Afghanistan", "geo_type": "country", "adjectives": ["Afghan"], "demonyms": ["Afghans"]}
+{"name": "Albania", "geo_type": "country", "adjectives": ["Albanian"], "demonyms": ["Albanians"]}
+{"name": "Algeria", "geo_type": "country", "adjectives": ["Algerian"], "demonyms": ["Algerians"]}
+{"name": "American Samoa", "geo_type": "country", "adjectives": ["American Samoan"], "demonyms": ["American Samoans"]}
+{"name": "Andorra", "geo_type": "country", "adjectives": ["Andorran"], "demonyms": ["Andorrans"]}
+{"name": "Angola", "geo_type": "country", "adjectives": ["Angolan"], "demonyms": ["Angolans"]}
+{"name": "Anguilla", "geo_type": "country", "adjectives": ["Anguillan"], "demonyms": ["Anguillans"]}
+{"name": "Antarctica", "geo_type": "country", "adjectives": ["Antarctic"], "demonyms": ["Antarcticans"]}
+{"name": "Antigua and Barbuda", "geo_type": "country", "adjectives": ["Antiguan", "Barbudan"], "demonyms": ["Antiguans", "Barbudans"]}
+{"name": "Argentina", "geo_type": "country", "adjectives": ["Argentine", "Argentinian"], "demonyms": ["Argentines", "Argentinians"]}
+{"name": "Armenia", "geo_type": "country", "adjectives": ["Armenian"], "demonyms": ["Armenians"]}
+{"name": "Aruba", "geo_type": "country", "adjectives": ["Aruban"], "demonyms": ["Arubans"]}
+{"name": "Australia", "geo_type": "country", "adjectives": ["Australian"], "demonyms": ["Australians"]}
+{"name": "Austria", "geo_type": "country", "adjectives": ["Austrian"], "demonyms": ["Austrians"]}
+{"name": "Azerbaijan", "geo_type": "country", "adjectives": ["Azerbaijani", "Azeri"], "demonyms": ["Azerbaijanis", "Azeris"]}
+{"name": "The Bahamas", "geo_type": "country", "adjectives": ["Bahamian"], "demonyms": ["Bahamians"]}
+{"name": "Bahrain", "geo_type": "country", "adjectives": ["Bahraini"], "demonyms": ["Bahrainis"]}
+{"name": "Bangladesh", "geo_type": "country", "adjectives": ["Bangladeshi"], "demonyms": ["Bangladeshis"]}
+{"name": "Barbados", "geo_type": "country", "adjectives": ["Barbadian"], "demonyms": ["Barbadians"]}
+{"name": "Belarus", "geo_type": "country", "adjectives": ["Belarusian"], "demonyms": ["Belarusians"]}
+{"name": "Belgium", "geo_type": "country", "adjectives": ["Belgian"], "demonyms": ["Belgians"]}
+{"name": "Belize", "geo_type": "country", "adjectives": ["Belizean"], "demonyms": ["Belizeans"]}
+{"name": "Benin", "geo_type": "country", "adjectives": ["Beninese", "Beninois"], "demonyms": ["Beninese", "Beninois"]}
+{"name": "Bermuda", "geo_type": "country", "adjectives": ["Bermudian", "Bermudan"], "demonyms": ["Bermudians", "Bermudans"]}
+{"name": "Bhutan", "geo_type": "country", "adjectives": ["Bhutanese"], "demonyms": ["Bhutanese"]}
+{"name": "Bolivia", "geo_type": "country", "adjectives": ["Bolivian"], "demonyms": ["Bolivians"]}
+{"name": "Bonaire", "geo_type": "country", "adjectives": ["Bonaire", "Bonairean"], "demonyms": ["Bonaire Dutch"]}
+{"name": "Bosnia and Herzegovina", "geo_type": "country", "adjectives": ["Bosnian", "Herzegovinian"], "demonyms": ["Bosnians", "Herzegovinians"]}
+{"name": "Botswana", "geo_type": "country", "adjectives": ["Botswanian"], "demonyms": ["Batswana", "Botswanians"]}
+{"name": "Bouvet Island", "geo_type": "country", "adjectives": ["Bouvet Island"], "demonyms": ["Bouvet Islanders"]}
+{"name": "Brazil", "geo_type": "country", "adjectives": ["Brazilian"], "demonyms": ["Brazilians"]}
+{"name": "British Indian Ocean Territory", "geo_type": "country", "adjectives": ["BIOT"], "demonyms": ["British"]}
+{"name": "Brunei", "geo_type": "country", "adjectives": ["Bruneian"], "demonyms": ["Bruneians"]}
+{"name": "Bulgaria", "geo_type": "country", "adjectives": ["Bulgarian"], "demonyms": ["Bulgarians"]}
+{"name": "Burkina Faso", "geo_type": "country", "adjectives": ["Burkinabé"], "demonyms": ["Burkinabè", "Burkinabé"]}
+{"name": "Burma", "geo_type": "country", "adjectives": ["Burmese"], "demonyms": ["Burmese", "Burman"]}
+{"name": "Burundi", "geo_type": "country", "adjectives": ["Burundian"], "demonyms": ["Burundians", "Barundi"]}
+{"name": "Cabo Verde", "geo_type": "country", "adjectives": ["Cabo Verdean"], "demonyms": ["Cabo Verdeans"]}
+{"name": "Cambodia", "geo_type": "country", "adjectives": ["Cambodian"], "demonyms": ["Cambodians"]}
+{"name": "Cameroon", "geo_type": "country", "adjectives": ["Cameroonian"], "demonyms": ["Cameroonians"]}
+{"name": "Canada", "geo_type": "country", "adjectives": ["Canadian"], "demonyms": ["Canadians"]}
+{"name": "Cayman Islands", "geo_type": "country", "adjectives": ["Caymanian"], "demonyms": ["Caymanians"]}
+{"name": "Central African Republic", "geo_type": "country", "adjectives": ["Central African"], "demonyms": ["Central Africans"]}
+{"name": "Chad", "geo_type": "country", "adjectives": ["Chadian"], "demonyms": ["Chadians"]}
+{"name": "Chile", "geo_type": "country", "adjectives": ["Chilean"], "demonyms": ["Chileans"]}
+{"name": "China", "geo_type": "country", "adjectives": ["Chinese"], "demonyms": ["Chinese"]}
+{"name": "Christmas Island", "geo_type": "country", "adjectives": ["Christmas Island"], "demonyms": ["Christmas Islanders"]}
+{"name": "Cocos (Keeling) Islands", "geo_type": "country", "adjectives": ["Cocos Island"], "demonyms": ["Cocos Islanders"]}
+{"name": "Colombia", "geo_type": "country", "adjectives": ["Colombian"], "demonyms": ["Colombians"]}
+{"name": "Comoros", "geo_type": "country", "adjectives": ["Comoran", "Comorian"], "demonyms": ["Comorans", "Comorians"]}
+{"name": "Democratic Republic of the Congo", "geo_type": "country", "adjectives": ["Congolese"], "demonyms": ["Congolese"]}
+{"name": "Republic of the Congo", "geo_type": "country", "adjectives": ["Congolese"], "demonyms": ["Congolese"]}
+{"name": "Cook Islands", "geo_type": "country", "adjectives": ["Cook"], "demonyms": ["Cook Islanders"]}
+{"name": "Costa Rica", "geo_type": "country", "adjectives": ["Costa Rican"], "demonyms": ["Costa Ricans"]}
+{"name": "Croatia", "geo_type": "country", "adjectives": ["Croatian"], "demonyms": ["Croatians", "Croats"]}
+{"name": "Cuba", "geo_type": "country", "adjectives": ["Cuban"], "demonyms": ["Cubans"]}
+{"name": "Curaçao", "geo_type": "country", "adjectives": ["Curaçaoan"], "demonyms": ["Curaçaoans"]}
+{"name": "Cyprus", "geo_type": "country", "adjectives": ["Cypriot"], "demonyms": ["Cypriots"]}
+{"name": "Czech Republic", "geo_type": "country", "adjectives": ["Czech"], "demonyms": ["Czechs"]}
+{"name": "Denmark", "geo_type": "country", "adjectives": ["Danish"], "demonyms": ["Danes"]}
+{"name": "Djibouti", "geo_type": "country", "adjectives": ["Djiboutian"], "demonyms": ["Djiboutians"]}
+{"name": "Dominica", "geo_type": "country", "adjectives": ["Dominican"], "demonyms": ["Dominicans"]}
+{"name": "Dominican Republic", "geo_type": "country", "adjectives": ["Dominican"], "demonyms": ["Dominicans"]}
+{"name": "East Timor", "geo_type": "country", "adjectives": ["Timorese"], "demonyms": ["Timorese"]}
+{"name": "Ecuador", "geo_type": "country", "adjectives": ["Ecuadorian"], "demonyms": ["Ecuadorians"]}
+{"name": "Egypt", "geo_type": "country", "adjectives": ["Egyptian"], "demonyms": ["Egyptians"]}
+{"name": "El Salvador", "geo_type": "country", "adjectives": ["Salvadoran"], "demonyms": ["Salvadorans", "Salvadorians", "Salvadoreans"]}
+{"name": "England", "geo_type": "country", "adjectives": ["English"], "demonyms": ["English", "Englishmen", "Englishwomen"]}
+{"name": "Equatorial Guinea", "geo_type": "country", "adjectives": ["Equatorial Guinean", "Equatoguinean"], "demonyms": ["Equatorial Guineans", "Equatoguineans"]}
+{"name": "Eritrea", "geo_type": "country", "adjectives": ["Eritrean"], "demonyms": ["Eritreans"]}
+{"name": "Estonia", "geo_type": "country", "adjectives": ["Estonian"], "demonyms": ["Estonians"]}
+{"name": "Eswatini", "geo_type": "country", "adjectives": ["Swazi", "Swati"], "demonyms": ["Swazis"]}
+{"name": "Ethiopia", "geo_type": "country", "adjectives": ["Ethiopian"], "demonyms": ["Ethiopians", "Habesha"]}
+{"name": "European Union", "geo_type": "country", "adjectives": ["European"], "demonyms": ["Europeans"]}
+{"name": "Falkland Islands", "geo_type": "country", "adjectives": ["Falkland Island"], "demonyms": ["Falkland Islanders"]}
+{"name": "Faroe Islands", "geo_type": "country", "adjectives": ["Faroese"], "demonyms": ["Faroese"]}
+{"name": "Fiji", "geo_type": "country", "adjectives": ["Fijian"], "demonyms": ["Fijians"]}
+{"name": "Finland", "geo_type": "country", "adjectives": ["Finnish"], "demonyms": ["Finns"]}
+{"name": "France", "geo_type": "country", "adjectives": ["French"], "demonyms": ["French", "Frenchmen", "Frenchwomen"]}
+{"name": "French Guiana", "geo_type": "country", "adjectives": ["French Guianese"], "demonyms": ["French Guianese"]}
+{"name": "French Polynesia", "geo_type": "country", "adjectives": ["French Polynesian"], "demonyms": ["French Polynesians"]}
+{"name": "French Southern Territories", "geo_type": "country", "adjectives": ["French Southern Territories"], "demonyms": ["French"]}
+{"name": "Gabon", "geo_type": "country", "adjectives": ["Gabonese"], "demonyms": ["Gabonese", "Gabonaise"]}
+{"name": "The Gambia", "geo_type": "country", "adjectives": ["Gambian"], "demonyms": ["Gambians"]}
+{"name": "Georgia", "geo_type": "country", "adjectives": ["Georgian"], "demonyms": ["Georgians"]}
+{"name": "Germany", "geo_type": "country", "adjectives": ["German"], "demonyms": ["Germans"]}
+{"name": "Ghana", "geo_type": "country", "adjectives": ["Ghanaian"], "demonyms": ["Ghanaians"]}
+{"name": "Gibraltar", "geo_type": "country", "adjectives": ["Gibraltar"], "demonyms": ["Gibraltarians"]}
+{"name": "Greece", "geo_type": "country", "adjectives": ["Greek", "Hellenic"], "demonyms": ["Greeks", "Hellenes"]}
+{"name": "Greenland", "geo_type": "country", "adjectives": ["Greenland"], "demonyms": ["Greenlanders"]}
+{"name": "Grenada", "geo_type": "country", "adjectives": ["Grenadian"], "demonyms": ["Grenadians"]}
+{"name": "Guadeloupe", "geo_type": "country", "adjectives": ["Guadeloupe"], "demonyms": ["Guadeloupians", "Guadeloupeans"]}
+{"name": "Guam", "geo_type": "country", "adjectives": ["Guamanian"], "demonyms": ["Guamanians"]}
+{"name": "Guatemala", "geo_type": "country", "adjectives": ["Guatemalan"], "demonyms": ["Guatemalans"]}
+{"name": "Guernsey", "geo_type": "country", "adjectives": ["Guernsey"], "demonyms": ["Guernseyman", "Guernseywoman"]}
+{"name": "Guinea", "geo_type": "country", "adjectives": ["Guinean"], "demonyms": ["Guineans"]}
+{"name": "Guinea-Bissau", "geo_type": "country", "adjectives": ["Bissau-Guinean"], "demonyms": ["Bissau-Guineans"]}
+{"name": "Guyana", "geo_type": "country", "adjectives": ["Guyanese"], "demonyms": ["Guyanese"]}
+{"name": "Haiti", "geo_type": "country", "adjectives": ["Haitian"], "demonyms": ["Haitians"]}
+{"name": "Heard Island and McDonald Islands", "geo_type": "country", "adjectives": ["Heard Island", "McDonald Island"], "demonyms": ["Heard Islanders", "McDonald Islanders"]}
+{"name": "Honduras", "geo_type": "country", "adjectives": ["Honduran"], "demonyms": ["Hondurans"]}
+{"name": "Hong Kong", "geo_type": "country", "adjectives": ["Hong Kong", "Cantonese", "Hong Konger"], "demonyms": ["Hongkongers", "Hong Kongese"]}
+{"name": "Hungary", "geo_type": "country", "adjectives": ["Hungarian", "Magyar"], "demonyms": ["Hungarians", "Magyars"]}
+{"name": "Iceland", "geo_type": "country", "adjectives": ["Icelandic"], "demonyms": ["Icelanders"]}
+{"name": "India", "geo_type": "country", "adjectives": ["Indian"], "demonyms": ["Indians"]}
+{"name": "Indonesia", "geo_type": "country", "adjectives": ["Indonesian"], "demonyms": ["Indonesians"]}
+{"name": "Iran", "geo_type": "country", "adjectives": ["Iranian", "Persian"], "demonyms": ["Iranians", "Persians"]}
+{"name": "Iraq", "geo_type": "country", "adjectives": ["Iraqi"], "demonyms": ["Iraqis"]}
+{"name": "Ireland", "geo_type": "country", "adjectives": ["Irish"], "demonyms": ["Irish", "Irishmen", "Irishwomen"]}
+{"name": "Isle of Man", "geo_type": "country", "adjectives": ["Manx"], "demonyms": ["Manx"]}
+{"name": "Israel", "geo_type": "country", "adjectives": ["Israeli", "Israelite"], "demonyms": ["Israelis"]}
+{"name": "Italy", "geo_type": "country", "adjectives": ["Italian"], "demonyms": ["Italians"]}
+{"name": "Ivory Coast", "geo_type": "country", "adjectives": ["Ivorian"], "demonyms": ["Ivorians"]}
+{"name": "Jamaica", "geo_type": "country", "adjectives": ["Jamaican"], "demonyms": ["Jamaicans"]}
+{"name": "Jan Mayen", "geo_type": "country", "adjectives": ["Jan Mayen"], "demonyms": ["Jan Mayen", "Jan Mayen residents"]}
+{"name": "Japan", "geo_type": "country", "adjectives": ["Japanese"], "demonyms": ["Japanese"]}
+{"name": "Jersey", "geo_type": "country", "adjectives": ["Jersey"], "demonyms": ["Jerseyman", "Jerseywoman", "Jersian", "Jèrriais"]}
+{"name": "Jordan", "geo_type": "country", "adjectives": ["Jordanian"], "demonyms": ["Jordanians"]}
+{"name": "Kazakhstan", "geo_type": "country", "adjectives": ["Kazakhstani", "Kazakh"], "demonyms": ["Kazakhstanis", "Kazakhs"]}
+{"name": "Kenya", "geo_type": "country", "adjectives": ["Kenyan"], "demonyms": ["Kenyans"]}
+{"name": "Kiribati", "geo_type": "country", "adjectives": ["Kiribati"], "demonyms": ["I-Kiribati"]}
+{"name": "North Korea", "geo_type": "country", "adjectives": ["North Korean"], "demonyms": ["Koreans", "North Koreans"]}
+{"name": "South Korea", "geo_type": "country", "adjectives": ["South Korean"], "demonyms": ["Koreans", "South Koreans"]}
+{"name": "Kosovo", "geo_type": "country", "adjectives": ["Kosovar", "Kosovan"], "demonyms": ["Kosovars"]}
+{"name": "Kuwait", "geo_type": "country", "adjectives": ["Kuwaiti"], "demonyms": ["Kuwaitis"]}
+{"name": "Kyrgyzstan", "geo_type": "country", "adjectives": ["Kyrgyzstani", "Kyrgyz", "Kirgiz", "Kirghiz"], "demonyms": ["Kyrgyzstanis", "Kyrgyz", "Kirgiz", "Kirghiz"]}
+{"name": "Laos", "geo_type": "country", "adjectives": ["Lao", "Laotian"], "demonyms": ["Laos", "Laotians"]}
+{"name": "Latvia", "geo_type": "country", "adjectives": ["Latvian", "Lettish"], "demonyms": ["Latvians", "Letts"]}
+{"name": "Lebanon", "geo_type": "country", "adjectives": ["Lebanese"], "demonyms": ["Lebanese"]}
+{"name": "Lesotho", "geo_type": "country", "adjectives": ["Basotho"], "demonyms": ["Basotho", "Mosotho"]}
+{"name": "Liberia", "geo_type": "country", "adjectives": ["Liberian"], "demonyms": ["Liberians"]}
+{"name": "Libya", "geo_type": "country", "adjectives": ["Libyan"], "demonyms": ["Libyans"]}
+{"name": "Liechtenstein", "geo_type": "country", "adjectives": ["Liechtensteiner"], "demonyms": ["Liechtensteiners"]}
+{"name": "Lithuania", "geo_type": "country", "adjectives": ["Lithuanian"], "demonyms": ["Lithuanians"]}
+{"name": "Luxembourg", "geo_type": "country", "adjectives": ["Luxembourg", "Luxembourgish"], "demonyms": ["Luxembourgers"]}
+{"name": "Macau", "geo_type": "country", "adjectives": ["Macanese"], "demonyms": ["Macanese", "Chinese"]}
+{"name": "Madagascar", "geo_type": "country", "adjectives": ["Malagasy", "Madagascan"], "demonyms": ["Malagasy", "Madagascans"]}
+{"name": "Malawi", "geo_type": "country", "adjectives": ["Malawian"], "demonyms": ["Malawians"]}
+{"name": "Malaysia", "geo_type": "country", "adjectives": ["Malaysian"], "demonyms": ["Malaysians"]}
+{"name": "Maldives", "geo_type": "country", "adjectives": ["Maldivian"], "demonyms": ["Maldivians"]}
+{"name": "Mali", "geo_type": "country", "adjectives": ["Malian", "Malinese"], "demonyms": ["Malians"]}
+{"name": "Malta", "geo_type": "country", "adjectives": ["Maltese"], "demonyms": ["Maltese"]}
+{"name": "Marshall Islands", "geo_type": "country", "adjectives": ["Marshallese"], "demonyms": ["Marshallese"]}
+{"name": "Martinique", "geo_type": "country", "adjectives": ["Martiniquais", "Martinican"], "demonyms": ["Martiniquais", "Martiniquaises"]}
+{"name": "Mauritania", "geo_type": "country", "adjectives": ["Mauritanian"], "demonyms": ["Mauritanians"]}
+{"name": "Mauritius", "geo_type": "country", "adjectives": ["Mauritian"], "demonyms": ["Mauritians"]}
+{"name": "Mayotte", "geo_type": "country", "adjectives": ["Mahoran"], "demonyms": ["Mahorans"]}
+{"name": "Mexico", "geo_type": "country", "adjectives": ["Mexican"], "demonyms": ["Mexicans"]}
+{"name": "Micronesia", "geo_type": "country", "adjectives": ["Micronesian"], "demonyms": ["Micronesians"]}
+{"name": "Moldova", "geo_type": "country", "adjectives": ["Moldovan"], "demonyms": ["Moldovans"]}
+{"name": "Monaco", "geo_type": "country", "adjectives": ["Monégasque", "Monacan"], "demonyms": ["Monégasques", "Monacans"]}
+{"name": "Mongolia", "geo_type": "country", "adjectives": ["Mongolian"], "demonyms": ["Mongolians", "Mongols"]}
+{"name": "Montenegro", "geo_type": "country", "adjectives": ["Montenegrin"], "demonyms": ["Montenegrins"]}
+{"name": "Montserrat", "geo_type": "country", "adjectives": ["Montserratian"], "demonyms": ["Montserratians"]}
+{"name": "Morocco", "geo_type": "country", "adjectives": ["Moroccan"], "demonyms": ["Moroccans"]}
+{"name": "Mozambique", "geo_type": "country", "adjectives": ["Mozambican"], "demonyms": ["Mozambicans"]}
+{"name": "Myanmar", "geo_type": "country", "adjectives": ["Myanma", "Burmese"], "demonyms": ["Myanmars"]}
+{"name": "Namibia", "geo_type": "country", "adjectives": ["Namibian"], "demonyms": ["Namibians"]}
+{"name": "Nauru", "geo_type": "country", "adjectives": ["Nauruan"], "demonyms": ["Nauruans"]}
+{"name": "Nepal", "geo_type": "country", "adjectives": ["Nepali", "Nepalese"], "demonyms": ["Nepalis", "Nepalese"]}
+{"name": "Netherlands", "geo_type": "country", "adjectives": ["Dutch"], "demonyms": ["Dutch", "Dutchmen", "Dutchwomen", "Netherlanders"]}
+{"name": "New Caledonia", "geo_type": "country", "adjectives": ["New Caledonian"], "demonyms": ["New Caledonians"]}
+{"name": "New Zealand", "geo_type": "country", "adjectives": ["New Zealand"], "demonyms": ["New Zealanders"]}
+{"name": "Nicaragua", "geo_type": "country", "adjectives": ["Nicaraguan"], "demonyms": ["Nicaraguans"]}
+{"name": "Niger", "geo_type": "country", "adjectives": ["Nigerien"], "demonyms": ["Nigeriens"]}
+{"name": "Nigeria", "geo_type": "country", "adjectives": ["Nigerian"], "demonyms": ["Nigerians"]}
+{"name": "Niue", "geo_type": "country", "adjectives": ["Niuean"], "demonyms": ["Niueans"]}
+{"name": "Norfolk Island", "geo_type": "country", "adjectives": ["Norfolk Island"], "demonyms": ["Norfolk Islanders"]}
+{"name": "North Macedonia", "geo_type": "country", "adjectives": ["Macedonian"], "demonyms": ["Macedonians"]}
+{"name": "Northern Ireland", "geo_type": "country", "adjectives": ["Northern Irish"], "demonyms": ["Northern Irish", "Northern Irishmen", "Northern Irishwomen"]}
+{"name": "Northern Mariana Islands", "geo_type": "country", "adjectives": ["Northern Marianan"], "demonyms": ["Northern Marianans"]}
+{"name": "Norway", "geo_type": "country", "adjectives": ["Norwegian"], "demonyms": ["Norwegians"]}
+{"name": "Oman", "geo_type": "country", "adjectives": ["Omani"], "demonyms": ["Omanis"]}
+{"name": "Pakistan", "geo_type": "country", "adjectives": ["Pakistani"], "demonyms": ["Pakistanis"]}
+{"name": "Palau", "geo_type": "country", "adjectives": ["Palauan"], "demonyms": ["Palauans"]}
+{"name": "Palestine", "geo_type": "country", "adjectives": ["Palestinian"], "demonyms": ["Palestinians"]}
+{"name": "Panama", "geo_type": "country", "adjectives": ["Panamanian"], "demonyms": ["Panamanians"]}
+{"name": "Papua New Guinea", "geo_type": "country", "adjectives": ["Papua New Guinean", "Papuan"], "demonyms": ["Papua New Guineans", "Papuans"]}
+{"name": "Paraguay", "geo_type": "country", "adjectives": ["Paraguayan"], "demonyms": ["Paraguayans"]}
+{"name": "Peru", "geo_type": "country", "adjectives": ["Peruvian"], "demonyms": ["Peruvians"]}
+{"name": "Philippines", "geo_type": "country", "adjectives": ["Filipino", "Philippine"], "demonyms": ["Filipinos", "Filipinas"]}
+{"name": "Pitcairn Islands", "geo_type": "country", "adjectives": ["Pitcairn Island"], "demonyms": ["Pitcairn Islanders"]}
+{"name": "Poland", "geo_type": "country", "adjectives": ["Polish"], "demonyms": ["Poles"]}
+{"name": "Portugal", "geo_type": "country", "adjectives": ["Portuguese"], "demonyms": ["Portuguese"]}
+{"name": "Puerto Rico", "geo_type": "country", "adjectives": ["Puerto Rican"], "demonyms": ["Puerto Ricans"]}
+{"name": "Qatar", "geo_type": "country", "adjectives": ["Qatari"], "demonyms": ["Qataris"]}
+{"name": "Réunion", "geo_type": "country", "adjectives": ["Réunionese", "Réunionnais"], "demonyms": ["Réunionese", "Réunionnais", "Réunionnaises"]}
+{"name": "Romania", "geo_type": "country", "adjectives": ["Romanian"], "demonyms": ["Romanians"]}
+{"name": "Russia", "geo_type": "country", "adjectives": ["Russian"], "demonyms": ["Russians"]}
+{"name": "Rwanda", "geo_type": "country", "adjectives": ["Rwandan"], "demonyms": ["Rwandans", "Banyarwanda"]}
+{"name": "Saba", "geo_type": "country", "adjectives": ["Saba", "Saban"], "demonyms": ["Saba Dutch"]}
+{"name": "Saint Barthélemy", "geo_type": "country", "adjectives": ["Barthélemois"], "demonyms": ["Barthélemois", "Barthélemoises"]}
+{"name": "Saint Helena, Ascension and Tristan da Cunha", "geo_type": "country", "adjectives": ["Saint Helenian"], "demonyms": ["Saint Helenians"]}
+{"name": "Saint Kitts and Nevis", "geo_type": "country", "adjectives": ["Kittitian", "Nevisian"], "demonyms": ["Kittitians", "Nevisians"]}
+{"name": "Saint Lucia", "geo_type": "country", "adjectives": ["Saint Lucian"], "demonyms": ["Saint Lucians"]}
+{"name": "Saint Martin", "geo_type": "country", "adjectives": ["Saint-Martinoise"], "demonyms": ["Saint-Martinois", "Saint-Martinoises"]}
+{"name": "Saint Pierre and Miquelon", "geo_type": "country", "adjectives": ["Saint-Pierrais", "Miquelonnais"], "demonyms": ["Saint-Pierrais", "Saint-Pierraises", "Miquelonnais", "Miquelonnaises"]}
+{"name": "Saint Vincent and the Grenadines", "geo_type": "country", "adjectives": ["Saint Vincentian", "Vincentian"], "demonyms": ["Saint Vincentians", "Vincentians"]}
+{"name": "Sahrawi", "geo_type": "country", "adjectives": ["Sahrawi", "Western Saharan", "Sahrawian"], "demonyms": ["Sahrawis", "Western Saharans"]}
+{"name": "Samoa", "geo_type": "country", "adjectives": ["Samoan"], "demonyms": ["Samoans"]}
+{"name": "San Marino", "geo_type": "country", "adjectives": ["Sammarinese"], "demonyms": ["Sammarinese"]}
+{"name": "São Tomé and Príncipe", "geo_type": "country", "adjectives": ["São Toméan"], "demonyms": ["São Toméans"]}
+{"name": "Saudi Arabia", "geo_type": "country", "adjectives": ["Saudi", "Saudi Arabian"], "demonyms": ["Saudis", "Saudi Arabians"]}
+{"name": "Scotland", "geo_type": "country", "adjectives": ["Scottish"], "demonyms": ["Scots", "Scotsmen", "Scotswomen"]}
+{"name": "Senegal", "geo_type": "country", "adjectives": ["Senegalese"], "demonyms": ["Senegalese"]}
+{"name": "Serbia", "geo_type": "country", "adjectives": ["Serbian"], "demonyms": ["Serbs", "Serbians"]}
+{"name": "Seychelles", "geo_type": "country", "adjectives": ["Seychellois"], "demonyms": ["Seychellois", "Seychelloises"]}
+{"name": "Sierra Leone", "geo_type": "country", "adjectives": ["Sierra Leonean"], "demonyms": ["Sierra Leoneans"]}
+{"name": "Singapore", "geo_type": "country", "adjectives": ["Singapore", "Singaporean"], "demonyms": ["Singaporeans"]}
+{"name": "Sint Eustatius", "geo_type": "country", "adjectives": ["Sint Eustatius", "Statian"], "demonyms": ["Statians"]}
+{"name": "Sint Maarten", "geo_type": "country", "adjectives": ["Sint Maarten"], "demonyms": ["Sint Maarteners"]}
+{"name": "Slovakia", "geo_type": "country", "adjectives": ["Slovak"], "demonyms": ["Slovaks", "Slovakians"]}
+{"name": "Slovenia", "geo_type": "country", "adjectives": ["Slovenian", "Slovene"], "demonyms": ["Slovenes", "Slovenians"]}
+{"name": "Solomon Islands", "geo_type": "country", "adjectives": ["Solomon Island"], "demonyms": ["Solomon Islanders"]}
+{"name": "Somalia", "geo_type": "country", "adjectives": ["Somali"], "demonyms": ["Somalis"]}
+{"name": "Somaliland", "geo_type": "country", "adjectives": ["Somalilander"], "demonyms": ["Somalilanders"]}
+{"name": "South Africa", "geo_type": "country", "adjectives": ["South African"], "demonyms": ["South Africans"]}
+{"name": "South Georgia and the South Sandwich Islands", "geo_type": "country", "adjectives": ["South Georgia Island", "South Sandwich Island"], "demonyms": ["South Georgia Islanders", "South Sandwich Islanders"]}
+{"name": "South Ossetia", "geo_type": "country", "adjectives": ["South Ossetian"], "demonyms": ["South Ossetians"]}
+{"name": "South Sudan", "geo_type": "country", "adjectives": ["South Sudanese"], "demonyms": ["South Sudanese"]}
+{"name": "Spain", "geo_type": "country", "adjectives": ["Spanish"], "demonyms": ["Spaniards"]}
+{"name": "Sri Lanka", "geo_type": "country", "adjectives": ["Sri Lankan"], "demonyms": ["Sri Lankans"]}
+{"name": "Sudan", "geo_type": "country", "adjectives": ["Sudanese"], "demonyms": ["Sudanese"]}
+{"name": "Suriname", "geo_type": "country", "adjectives": ["Surinamese"], "demonyms": ["Surinamers"]}
+{"name": "Svalbard", "geo_type": "country", "adjectives": ["Svalbard"], "demonyms": ["Svalbard", "Svalbard residents"]}
+{"name": "Sweden", "geo_type": "country", "adjectives": ["Swedish"], "demonyms": ["Swedes"]}
+{"name": "Switzerland", "geo_type": "country", "adjectives": ["Swiss"], "demonyms": ["Swiss"]}
+{"name": "Syria", "geo_type": "country", "adjectives": ["Syrian"], "demonyms": ["Syrians"]}
+{"name": "Taiwan", "geo_type": "country", "adjectives": ["Taiwanese", "Formosan"], "demonyms": ["Taiwanese", "Formosans"]}
+{"name": "Tajikistan", "geo_type": "country", "adjectives": ["Tajikistani"], "demonyms": ["Tajikistanis", "Tajiks"]}
+{"name": "Tanzania", "geo_type": "country", "adjectives": ["Tanzanian"], "demonyms": ["Tanzanians"]}
+{"name": "Thailand", "geo_type": "country", "adjectives": ["Thai"], "demonyms": ["Thai"]}
+{"name": "Timor-Leste", "geo_type": "country", "adjectives": ["Timorese"], "demonyms": ["Timorese"]}
+{"name": "Togo", "geo_type": "country", "adjectives": ["Togolese"], "demonyms": ["Togolese"]}
+{"name": "Tokelau", "geo_type": "country", "adjectives": ["Tokelauan"], "demonyms": ["Tokelauans"]}
+{"name": "Tonga", "geo_type": "country", "adjectives": ["Tongan"], "demonyms": ["Tongans"]}
+{"name": "Trinidad and Tobago", "geo_type": "country", "adjectives": ["Trinidadian", "Tobagonian"], "demonyms": ["Trinidadians", "Tobagonians"]}
+{"name": "Tunisia", "geo_type": "country", "adjectives": ["Tunisian"], "demonyms": ["Tunisians"]}
+{"name": "Turkey", "geo_type": "country", "adjectives": ["Turkish"], "demonyms": ["Turks"]}
+{"name": "Turkmenistan", "geo_type": "country", "adjectives": ["Turkmen"], "demonyms": ["Turkmens"]}
+{"name": "Turks and Caicos Islands", "geo_type": "country", "adjectives": ["Turks and Caicos Island"], "demonyms": ["Turks and Caicos Islanders"]}
+{"name": "Tuvalu", "geo_type": "country", "adjectives": ["Tuvaluan"], "demonyms": ["Tuvaluans"]}
+{"name": "Uganda", "geo_type": "country", "adjectives": ["Ugandan"], "demonyms": ["Ugandans"]}
+{"name": "Ukraine", "geo_type": "country", "adjectives": ["Ukrainian"], "demonyms": ["Ukrainians"]}
+{"name": "United Arab Emirates", "geo_type": "country", "adjectives": ["Emirati", "Emirian", "Emiri"], "demonyms": ["Emiratis", "Emirians", "Emiri"]}
+{"name": "United Kingdom of Great Britain and Northern Ireland", "geo_type": "country", "adjectives": ["British", "United Kingdom", "UK"], "demonyms": ["Britons", "British", "British people"]}
+{"name": "United States of America", "geo_type": "country", "adjectives": ["American", "United States", "U.S.", "US"], "demonyms": ["Americans", "New Englanders"]}
+{"name": "Uruguay", "geo_type": "country", "adjectives": ["Uruguayan"], "demonyms": ["Uruguayans"]}
+{"name": "Uzbekistan", "geo_type": "country", "adjectives": ["Uzbekistani", "Uzbek"], "demonyms": ["Uzbekistanis", "Uzbeks"]}
+{"name": "Vanuatu", "geo_type": "country", "adjectives": ["Ni-Vanuatu", "Vanuatuan"], "demonyms": ["Ni-Vanuatu"]}
+{"name": "Vatican City", "geo_type": "country", "adjectives": ["Vaticanian"], "demonyms": ["Vaticanians"]}
+{"name": "Venezuela", "geo_type": "country", "adjectives": ["Venezuelan"], "demonyms": ["Venezuelans"]}
+{"name": "Vietnam", "geo_type": "country", "adjectives": ["Vietnamese"], "demonyms": ["Vietnamese"]}
+{"name": "British Virgin Islands", "geo_type": "country", "adjectives": ["British Virgin Island"], "demonyms": ["British Virgin Islanders"]}
+{"name": "United States Virgin Islands", "geo_type": "country", "adjectives": ["U.S. Virgin Island", "US Virgin Island"], "demonyms": ["U.S. Virgin Islanders", "US Virgin Islanders"]}
+{"name": "Wales", "geo_type": "country", "adjectives": ["Welsh"], "demonyms": ["Welshmen", "Welshwomen"]}
+{"name": "Wallis and Futuna", "geo_type": "country", "adjectives": ["Wallis and Futuna", "Wallisian", "Futunan"], "demonyms": ["Wallis and Futuna Islanders", "Wallisians", "Futunans"]}
+{"name": "Western Sahara", "geo_type": "country", "adjectives": ["Sahrawi", "Sahrawian", "Sahraouian"], "demonyms": ["Sahrawis", "Sahraouis"]}
+{"name": "Yemen", "geo_type": "country", "adjectives": ["Yemeni"], "demonyms": ["Yemenis"]}
+{"name": "Zambia", "geo_type": "country", "adjectives": ["Zambian"], "demonyms": ["Zambians"]}
+{"name": "Zanzibar", "geo_type": "country", "adjectives": ["Zanzibari"], "demonyms": ["Zanzibaris"]}
+{"name": "Zimbabwe", "geo_type": "country", "adjectives": ["Zimbabwean"], "demonyms": ["Zimbabweans"]}
